@@ -1,17 +1,37 @@
-# @unction/tempLate
+# @unction/hammer
+
 
 ![Tests][BADGE_TRAVIS]
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> mixed -> mixed
+> KeyType -> IterableType -> IterableType
 
-An example function.
+Use this to de-nest a nested object.
 
 ``` javascript
-tempLate(1) // 1
+const payload = {
+  id: 1
+  attributes: {
+    name: "Kurtis Rainbolt-Greene",
+    age: 26
+  }
+}
+
+hammer("attributes")(payload)
 ```
 
-[BADGE_TRAVIS]: https://img.shields.io/travis/unctionjs/tempLate.svg?maxAge=2592000&style=flat-square
+Which returns:
+
+``` javascript
+{
+  id: 1,
+  name: "Kurtis Rainbolt-Greene",
+  age: 26
+}
+```
+
+[BADGE_TRAVIS]: https://img.shields.io/travis/unctionjs/hammer.svg?maxAge=2592000&style=flat-square
+
 [BADGE_STABILITY]: https://img.shields.io/badge/stability-strong-green.svg?maxAge=2592000&style=flat-square
-[BADGE_DEPENDENCY]: https://img.shields.io/david/unctionjs/tempLate.svg?maxAge=2592000&style=flat-square
+[BADGE_DEPENDENCY]: https://img.shields.io/david/unctionjs/hammer.svg?maxAge=2592000&style=flat-square
