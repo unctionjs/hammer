@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
 import {test} from "tap"
 
-import fresh from "./source"
+import hammer from "./source"
 
 test(({same, end}) => {
   same(
