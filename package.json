@@ -51,9 +51,9 @@
     "tap": "10.3.4"
   },
   "dependencies": {
-    "@unction/isiterable": "1.0.6",
-    "@unction/keychain": "1.0.1",
-    "@unction/mergeright": "1.0.4",
+    "@unction/isiterable": "2.0.0",
+    "@unction/keychain": "2.0.0",
+    "@unction/mergeright": "2.0.1",
     "ramda": "0.24.1"
   },
   "nyc": {
