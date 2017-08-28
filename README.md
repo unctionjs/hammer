@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> KeyType -> IterableType -> IterableType
+> KeyType -> FunctorType -> FunctorType
 
 Use this to de-nest a nested object.
 
