@@ -50,7 +50,7 @@
     "tap": "10.3.4"
   },
   "dependencies": {
-    "@unction/exceptkey": "1.29.0",
+    "@unction/exceptkey": "1.30.0",
     "@unction/isiterable": "2.8.0",
     "@unction/istype": "2.7.0",
     "@unction/keychain": "2.32.0",
