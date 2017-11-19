@@ -50,10 +50,10 @@
     "tap": "10.3.4"
   },
   "dependencies": {
-    "@unction/exceptkey": "1.35.0",
+    "@unction/exceptkey": "1.36.0",
     "@unction/isiterable": "2.11.0",
     "@unction/istype": "2.9.0",
-    "@unction/keychain": "2.35.0",
+    "@unction/keychain": "2.36.0",
     "@unction/mergeright": "3.33.0",
     "@unction/type": "2.6.0",
     "ramda": "0.24.1"
