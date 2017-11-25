@@ -53,7 +53,7 @@
     "@unction/exceptkey": "1.53.0",
     "@unction/isiterable": "2.15.0",
     "@unction/istype": "2.12.0",
-    "@unction/keychain": "2.43.0",
+    "@unction/keychain": "2.44.0",
     "@unction/mergeright": "3.36.2",
     "@unction/type": "2.8.0",
     "ramda": "0.24.1"
