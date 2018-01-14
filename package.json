@@ -52,7 +52,7 @@
     "tap": "11.0.0"
   },
   "dependencies": {
-    "@unction/exceptkey": "6.0.0",
+    "@unction/exceptkey": "7.0.0",
     "@unction/isiterable": "2.15.0",
     "@unction/istype": "4.0.0",
     "@unction/keychain": "7.0.0",
