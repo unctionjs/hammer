@@ -53,12 +53,10 @@
   },
   "dependencies": {
     "@unction/exceptkey": "9.0.0",
-    "@unction/isiterable": "2.15.0",
     "@unction/istype": "4.0.0",
     "@unction/keychain": "7.0.0",
     "@unction/mergeright": "5.0.0",
-    "@unction/type": "3.0.0",
-    "ramda": "0.24.1"
+    "@unction/type": "3.0.0"
   },
   "nyc": {
     "require": [
