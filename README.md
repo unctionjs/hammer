@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> KeyType -> RecordType -> RecordType
+> KeyType => RecordType => RecordType
 
 Use this to de-nest a nested object.
 
