@@ -1,13 +1,12 @@
 # @unction/hammer
 
-
 ![Tests][BADGE_TRAVIS]
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> KeyType => RecordType => RecordType
+> KeyType => KeyedEnumerableType => KeyedEnumerableType
 
-Use this to de-nest a nested object.
+Use this to de-nest a nested keyed enumerable.
 
 ``` javascript
 const payload = {
