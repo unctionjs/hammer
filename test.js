@@ -1,4 +1,4 @@
-/* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
+/* eslint-disable flowtype/require-return-type */
 import hammer from "./index"
 
 test("hammer with Object", () => {
