@@ -1,5 +1,5 @@
 /* eslint-disable flowtype/require-return-type */
-import hammer from "./index"
+import hammer from "./index";
 
 test("hammer with Object", () => {
   expect(
@@ -16,8 +16,8 @@ test("hammer with Object", () => {
       id: "1",
       name: "Kurtis Rainbolt-Greene",
     }
-  )
-})
+  );
+});
 
 test("hammer with Map", () => {
   expect(
@@ -34,5 +34,5 @@ test("hammer with Map", () => {
       ["id", "1"],
       ["name", "Kurtis Rainbolt-Greene"],
     ])
-  )
-})
+  );
+});
