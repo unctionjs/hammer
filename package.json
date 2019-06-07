@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@unction/dig": "1.1.0",
-    "@unction/exceptkey": "12.0.0",
+    "@unction/exceptkey": "12.1.0",
     "@unction/mergeright": "7.1.0"
   },
   "files": [
