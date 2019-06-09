@@ -1,6 +1,6 @@
 {
   "name": "@unction/hammer",
-  "version": "15.5.0",
+  "version": "15.6.0",
   "description": "Hammers down a subset's values into the set",
   "keywords": [
     "unction",
