@@ -1,5 +1,5 @@
-/* eslint-disable flowtype/require-return-type */
-import hammer from "./index";
+
+import hammer from "./";
 
 test("hammer with Object", () => {
   expect(
