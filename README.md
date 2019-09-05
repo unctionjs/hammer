@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> KeyType => KeyedEnumerableType => KeyedEnumerableType
+> A => KeyedEnumerableType<B, A> => KeyedEnumerableType<B, A>
 
 Use this to de-nest a nested keyed enumerable.
 
