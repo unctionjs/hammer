@@ -1,5 +1,5 @@
 
-import hammer from "./";
+import hammer from "./index.ts";
 
 test("hammer with Object", () => {
   expect(
