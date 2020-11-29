@@ -60,8 +60,8 @@
     "typescript": "^4.1.2"
   },
   "dependencies": {
-    "@unction/dig": "^1.11.0",
-    "@unction/exceptkey": "^12.11.0",
-    "@unction/mergeright": "^7.11.0"
+    "@unction/dig": "^1.12.0",
+    "@unction/exceptkey": "^12.12.0",
+    "@unction/mergeright": "^7.12.0"
   }
 }
